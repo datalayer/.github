@@ -1,7 +1,7 @@
 <h1 align="center">
   <img
       alt="Datalayer"
-      src="https://datalayer.s3.us-east-1.amazonaws.com/datalayer-25.svg"
+      src="https://assets.datalayer.design/datalayer-25.svg"
       width="200"
     />
 </h1>

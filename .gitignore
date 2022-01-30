@@ -1,0 +1,15 @@
+# Copyright (c) Datalayer, Inc. https://datalayer.io
+# Distributed under the terms of the MIT License.
+
+# Check with git check-ignore -v **/*
+
+# Exclude
+.*
+
+
+# Include
+!**/.*ignore
+!**/.*rc
+!**/.*rc.js
+!**/.*config
+!*.*rc.json
