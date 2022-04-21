@@ -5,8 +5,23 @@
       width="200"
     />
 </h1>
+
 <h2 align="center">
   ✨ <a href="https://datalayer.io">Open Science Platform</a> ✨
 </h2>
 
-<p align="center">Create reproducible data papers and courses</p>
+<h3 align="center">
+Datalayer designs, develops and operates an Open Science Platform for Business and Education
+</h3>
+
+<p align="center">
+  Collaborate to create and share reproducible data papers and courses
+</p>
+
+<p align="center">
+  Compatible with the Jupyter and R ecosystems
+</p>
+
+<p align="center">
+  🧬 🔭 📐
+</p>
