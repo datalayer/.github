@@ -9,4 +9,4 @@
   ✨ <a href="https://datalayer.io">Open Science Platform</a> ✨
 </h2>
 
-<p>Create reproducible data papers and courses</p>
+<p align="center">Create reproducible data papers and courses</p>
