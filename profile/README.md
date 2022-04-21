@@ -6,5 +6,7 @@
     />
 </h1>
 <h2 align="center">
-  ✨ <a href="https://datalayer.io">Reproducible Data Papers and Courses</a> ✨
+  ✨ <a href="https://datalayer.io">Open Science Platform</a> ✨
 </h2>
+
+<p>Create reproducible data papers and courses</p>
