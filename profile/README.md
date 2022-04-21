@@ -19,7 +19,7 @@ Datalayer designs, develops and operates an Open Science Platform for Business a
 </p>
 
 <p align="center">
-  Compatible with the Jupyter and R ecosystems
+  Compatible with the Jupyte, R and Julia ecosystems
 </p>
 
 <p align="center">
