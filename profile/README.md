@@ -11,19 +11,15 @@
 </h2>
 
 <h3 align="center">
-Datalayer designs, develops and operates an Open Science Platform for Business and Education
+  Datalayer designs, develops and operates an Open Science Platform for Business and Education
 </h3>
 
 <p align="center">
-  Collaborate to create and share reproducible data papers and courses
+Collaborate to create and share reproducible data papers and courses with literate programmming
 </p>
 
 <p align="center">
   Compatible with Jupyter, R and Julia ecosystems
-</p>
-
-<p align="center">
- Lliterate Reproducible Programmming
 </p>
 
 <p align="center">
