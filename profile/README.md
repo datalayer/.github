@@ -7,7 +7,7 @@
 </h1>
 
 <h2 align="center">
-  ✨ <a href="https://datalayer.io">Open Science Platform with Literate Programming</a> ✍️ 🎉
+  ✨ <a href="https://datalayer.io">Open Science Platform with Literate Programming</a> ✍️
 </h2>
 
 <h3 align="center">
