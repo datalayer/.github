@@ -11,7 +11,7 @@
 </h2>
 
 <h3 align="center">
-  Datalayer designs, develops and operates an Open Science Platform for Business and Education
+  Datalayer designs, develops and operates data-opinionated software for Business and Education
 </h3>
 
 <p align="center">
