@@ -19,7 +19,7 @@ Collaborate to create and share reproducible data papers and courses with litera
 </p>
 
 <p align="center">
-  Compatible with Jupyter, R, Julia and ObservableHQ ecosystems
+  Compatible with Jupyter (Python, R, Julia) and ObservableHQ ecosystems
 </p>
 
 <p align="center">
