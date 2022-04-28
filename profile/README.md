@@ -7,7 +7,7 @@
 </h1>
 
 <h2 align="center">
-  ✨ <a href="https://datalayer.io">Open Science Platform for Literate Programming</a> ✍️
+  Ξ <a href="https://datalayer.io">Open Science Platform for Literate Programming</a> ✍️
 </h2>
 
 <h3 align="center">
@@ -15,7 +15,7 @@
 </h3>
 
 <p align="center">
-Collaborate to create and share reproducible data papers and courses with literate programming
+  Collaborate to create and share reproducible data papers and courses with literate programming
 </p>
 
 <p align="center">
