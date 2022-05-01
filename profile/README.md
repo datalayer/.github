@@ -15,7 +15,7 @@
 </h3>
 
 <p align="center">
-  Collaborate to create and share reproducible data papers and courses with literate programming
+  Collaborate to create and share reproducible and accessible science with literate programming
 </p>
 
 <p align="center">
