@@ -7,12 +7,16 @@
 </h1>
 
 <h2 align="center">
-  Ξ <a href="https://datalayer.io">Open Science Platform for accessible and reproducible literate programming</a> ✍️
+  Ξ ✍️ <a href="https://datalayer.io">Literate programming</a>
 </h2>
 
 <h3 align="center">
   Datalayer designs, develops and operates data-opinionated software for Business and Education
 </h3>
+
+<p align="center">
+  Open Science Platform for accessible and reproducible literate programming
+</p>
 
 <p align="center">
   Collaborate to create and share reproducible and accessible science with literate programming
