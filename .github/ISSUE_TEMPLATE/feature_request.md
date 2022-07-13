@@ -1,7 +1,7 @@
 ---
 name: "\U0001F680 Feature request"
 about: Suggest a way to improve Datalayer
-labels: enhancement
+labels: feature
 ---
 
 <!--
