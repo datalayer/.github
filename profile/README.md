@@ -11,7 +11,7 @@
 </h2>
 
 <h3 align="center">
-  Datalayer designs, develops and operates data-opinionated software for Business and Education
+  Datalayer designs, develops and operates data-opinionated software for business and education
 </h3>
 
 <p align="center">
