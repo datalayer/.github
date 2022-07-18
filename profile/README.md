@@ -7,7 +7,7 @@
 </h1>
 
 <h2 align="center">
-  Ξ ✍️ <a href="https://datalayer.io">Literate programming</a>
+  Ξ ✍️ <a href="https://datalayer.io">Literate programming for reproducible data analysis</a>
 </h2>
 
 <h3 align="center">
