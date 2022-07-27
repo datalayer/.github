@@ -7,7 +7,7 @@
 </h1>
 
 <h2 align="center">
-  Ξ ✍️ <a href="https://datalayer.io">Literate programming for reproducible data analysis</a>
+  Ξ ✍️ <a href="https://datalayer.io">Open Science Platform for collaborative, accessible and reproducible literate programming</a>
 </h2>
 
 <h3 align="center">
@@ -15,17 +15,9 @@
 </h3>
 
 <p align="center">
-  Open Science Platform for accessible and reproducible literate programming
-</p>
-
-<p align="center">
-  Collaborate to create and share reproducible and accessible science with literate programming
-</p>
-
-<p align="center">
   Compatible with Jupyter (Python, R, Julia) and ObservableHQ ecosystems
 </p>
 
 <p align="center">
-  🧬 🔭 📐
+  🧬 🧪 📐 🔬 🔭
 </p>
