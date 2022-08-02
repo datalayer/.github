@@ -7,7 +7,7 @@
 </div>
 
 <h3 align="center">
-  Ξ ✍️ <a href="https://datalayer.io">Open Science Platform for collaborative, accessible and reproducible literate programming</a>
+  Ξ <a href="https://datalayer.io">Open Science Platform for 🧑‍🤝‍🧑 collaborative 🐕‍🦺 accessible and ✨ reproducible ✍️ 🖌️ literate programming</a>
 </h3>
 
 <p align="center">
