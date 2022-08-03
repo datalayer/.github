@@ -21,3 +21,9 @@
 <p align="center">
   🧬 🧪 🔬 📐 🔭 📡 🖌️
 </p>
+
+<div align="center">
+<p>Innovate and share your awesome code, notebooks and visuals on data</p>
+<p>Create and share public and private courses on coding and data, grade your students</p>
+<p>Onboard and retain your collaborators around data-minded teams</p>
+</div>
