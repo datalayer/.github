@@ -7,7 +7,7 @@
 </div>
 
 <h2 align="center">
-  Ξ ✍️ <a href="https://datalayer.io">Open Science Platform for 🖌️ literate programming</a>
+  Ξ ✍️ <a href="https://datalayer.io">Open Science Platform for literate programming</a>
 </h2>
 
 <p align="center">
@@ -23,5 +23,5 @@
 </p>
 
 <p align="center">
-  🧬 🧪 🔬 📐 🔭 📡
+  🧬 🧪 🔬 📐 🔭 📡 🖌️
 </p>
