@@ -7,11 +7,11 @@
 </div>
 
 <h2 align="center">
-  Ξ ✍️ <a href="https://datalayer.io">Data knowledge platform with literate programming</a>
+  Ξ ✍️ <a href="https://datalayer.io">Platform for Data Literacy</a>
 </h2>
 
 <p align="center">
-  Compatible with Jupyter (Python, R, Julia) and ObservableHQ ecosystems
+  Data analysis platform with literate programming compatible with Jupyter (Python, R, Julia) and ObservableHQ
 </p>
 
 <p align="center">
