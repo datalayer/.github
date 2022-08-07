@@ -1,9 +1,11 @@
 <div align="center">
-  <img
+  <a href="https://datalayer.io">
+    <img
       alt="Datalayer"
       src="https://assets.datalayer.design/datalayer-25.svg"
       width="150"
     />
+  </a>
 </div>
 
 <h2 align="center">
