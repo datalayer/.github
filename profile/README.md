@@ -13,7 +13,7 @@
 </h2>
 
 <p align="center">
-  Data analysis platform with literate programming compatible with Jupyter (Python, R, Julia) and ObservableHQ
+  Analyse data and share insights with literate programming compatible with Jupyter (Python, R, Julia) and ObservableHQ
 </p>
 
 <p align="center">
