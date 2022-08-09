@@ -13,11 +13,15 @@
 </h2>
 
 <p align="center">
-  Analyse data and share insights with literate programming compatible with Jupyter (Python, R, Julia) and ObservableHQ
+  🧑‍🤝‍🧑 Collaborative 🧑‍🦯 Accessible ♾️ Reproducible
 </p>
 
 <p align="center">
-  🧑‍🤝‍🧑 Collaborative 🧑‍🦯 Accessible ♾️ Reproducible
+  Analyse data and share insights with literate programming
+</p>
+
+<p align="center">
+  Compatible with Jupyter (Python, R, Julia) and ObservableHQ
 </p>
 
 <p align="center">
