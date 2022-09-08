@@ -9,7 +9,7 @@
 </div>
 
 <h2 align="center">
-  Ξ ✍️ <a href="https://datalayer.io">Platform for Data Literacy</a>
+  Ξ ✍️ 🖌️ <a href="https://datalayer.io">Platform for Data Literacy</a>
 </h2>
 
 <p align="center">
