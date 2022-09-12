@@ -9,15 +9,27 @@
 </div>
 
 <h2 align="center">
-  Ξ ✍️ 🖌️ <a href="https://datalayer.io">Platform for Data Literacy</a>
+  Ξ ✍️ 🖌️ <a href="https://datalayer.io">Open-Science Platform</a>
 </h2>
 
 <p align="center">
-  🧑‍🤝‍🧑 Collaborative 🧑‍🦯 Accessible ♾️ Reproducible
+  <b>Code, collaborate and transfer knowledge on data</b>
 </p>
 
 <p align="center">
-  Analyse data and share insights with literate programming
+  Communities connecting research and industries
+</p>
+
+<p align="center">
+  Authoring and publishing solutions that fit your specific needs
+</p>
+
+<p align="center">
+  Creating a data literacy culture
+</p>
+
+<p align="center">
+  🧑‍🤝‍🧑 Collaborative 🧑‍🦯 Accessible ♾️ Reproducible
 </p>
 
 <p align="center">
@@ -27,9 +39,3 @@
 <p align="center">
   🧬 🧪 🔬 📐 🔭 📡
 </p>
-
-<div align="center">
-<p>Innovate and share your awesome code, notebooks and visuals on data</p>
-<p>Create and share public and private courses on coding and data, grade your students</p>
-<p>Onboard and retain your collaborators around data-minded teams</p>
-</div>
