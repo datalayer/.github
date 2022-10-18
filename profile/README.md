@@ -9,7 +9,7 @@
 </div>
 
 <h2 align="center">
-  Ξ ✍️ 🖌️ <a href="https://datalayer.io">Open-Science Platform</a>
+  Ξ ✍️ 🖌️ <a href="https://datalayer.io">Open science platform to author and publish reproducible data analysis</a>
 </h2>
 
 <p align="center">
