@@ -9,31 +9,11 @@
 </div>
 
 <h2 align="center">
-  Ξ ✍️ 🖌️ <a href="https://datalayer.io">Open science platform to author and publish reproducible data analysis</a>
+  Ξ ✍️ 🖌️ <a href="https://datalayer.io">Open science platform</a>
 </h2>
 
 <p align="center">
-  <b>Code, collaborate and transfer knowledge on data</b>
-</p>
-
-<p align="center">
-  Communities connecting research and industries
-</p>
-
-<p align="center">
-  Authoring and publishing solutions that fit your specific needs
-</p>
-
-<p align="center">
-  Creating a data literacy culture
-</p>
-
-<p align="center">
-  🧑‍🤝‍🧑 Collaborative 🧑‍🦯 Accessible ♾️ Reproducible
-</p>
-
-<p align="center">
-  Compatible with Jupyter (Python, R, Julia) and ObservableHQ
+  <b>Author and publish reproducible data analysis</b>
 </p>
 
 <p align="center">
