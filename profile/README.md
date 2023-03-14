@@ -16,6 +16,6 @@
   ✍️ 🖌️ Author and publish reproducible data analysis
 </h3>
 
-<p align="center">
+<h3 align="center">
   🧬 🧪 🔬 📐 🌎 🔭 📡 🛰️
-</p>
+</h3>
