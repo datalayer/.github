@@ -9,11 +9,11 @@
 </div>
 
 <h2 align="center">
-  Ξ ✍️ 🖌️ <a href="https://datalayer.io">Open Science Platform</a>
+  Ξ <a href="https://datalayer.io">Open Science Platform</a>
 </h2>
 
 <h3 align="center">
-  Author and publish reproducible data analysis
+  ✍️ 🖌️ Author and publish reproducible data analysis
 </h3>
 
 <p align="center">
