@@ -9,7 +9,7 @@
 </div>
 
 <h2 align="center">
-  Ξ <a href="https://datalayer.io">Open Science Platform</a>
+  <a href="https://datalayer.io">Open Science Platform</a>
 </h2>
 
 <h3 align="center">
