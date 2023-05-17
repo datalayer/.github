@@ -13,7 +13,7 @@
 </h2>
 
 <h3 align="center">
-  ✍️ 🖌️ Author and publish reproducible data analysis
+  ✍️ Author and publish reproducible data analysis
 </h3>
 
 <h3 align="center">
