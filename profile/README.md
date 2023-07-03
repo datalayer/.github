@@ -9,16 +9,14 @@
 </div>
 
 <h1 align="center">
-  Build your Open Science Platform (OSP)<br/>
+  Cloud native open science platform
 </h1>
 
-<h2 align="center">
-  Compatible with any <a href="https://jupyter.org" target="_blank">Jupyter</a> and <a href="https://kubernetes.io" target="_blank">Kubernetes</a> deployment.
+<div align="center">
+  Add value to your <a href="https://jupyter.org" target="_blank">Jupyter</a> with the <a href="https://datalayer.tech" target="_blank">Datalayer Tech</a> open source components.
+  <br/>
+  We also offer hosted solutions: <a href="https://datalayer.run" target="_blank">Datalayer Run</a> for Kernel as a Service - <a href="https://datalayer.app/login" target="_blank">Datalayer App</a> for collaborative dashboards and courses.
 </h2>
-
-<h3 align="center">
-   <a href="https://datalayer.tech" target="_blank">Tech</a> - <a href="https://datalayer.run" target="_blank">Run</a> - <a href="https://datalayer.app/login" target="_blank">App</a>
-</h3>
 
 <h3 align="center">
   🧬 🧪 🔬 📐 🌎 🔭 📡 🛰️
