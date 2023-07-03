@@ -9,11 +9,11 @@
 </div>
 
 <h2 align="center">
-  <a href="https://datalayer.io">Open Science Platform</a>
+  Open Science Platform (OSP) on <a href="https://jupyter.org" target="_blank">Jupyter</a> and <a href="https://kubernetes.io" target="_blank">Kubernetes</a>
 </h2>
 
 <h3 align="center">
-  ✍️ Author and publish reproducible data analysis
+   <a href="https://datalayer.tech" target="_blank">Tech</a> - <a href="https://datalayer.run" target="_blank">Run</a> - <a href="https://datalayer.app" target="_blank">App</a>
 </h3>
 
 <h3 align="center">
