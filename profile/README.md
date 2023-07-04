@@ -16,7 +16,7 @@
   Add value to your <a href="https://jupyter.org" target="_blank">Jupyter</a> with the <a href="https://datalayer.tech" target="_blank">Datalayer Tech</a> open source components.
   <br/>
   <br/>
-  <a href="https://datalayer.run" target="_blank">Datalayer Run</a> - Jupyter kernels as a service
+  <a href="https://datalayer.run" target="_blank">Datalayer Run</a> - Jupyter Kernels as a Service
   <br/>
   <a href="https://datalayer.app/login" target="_blank">Datalayer App</a> - Collaborative Jupyter dashboards and courses.
 </h2>
