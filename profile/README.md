@@ -18,7 +18,7 @@
   <br/>
   <a href="https://datalayer.run" target="_blank">Datalayer Run</a> - Jupyter kernels as a service
   <br/>
-  <a href="https://datalayer.app/login" target="_blank">Datalayer App</a> - Collaborative Jupyter dashboards and courses.
+  <a href="https://datalayer.app" target="_blank">Datalayer App</a> - Collaborative Jupyter dashboards and courses.
 </h2>
 
 <h3 align="center">
