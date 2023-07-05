@@ -9,16 +9,20 @@
 </div>
 
 <h1 align="center">
-  Collaborative Jupyter
+  A cloud native Jupyter
 </h1>
 
 <div align="center">
-  <b><a href="https://datalayer.tech" target="_blank">Datalayer Tech</a></b> Jupyter upgrade with open source components to build a custom cloud native open science platform.
+  <b><a href="https://datalayer.tech" target="_blank">Datalayer Tech</a></b> open source repositories upgrade your Jupyter to a cloud native open science platform
   <br/>
-  <b><a href="https://datalayer.run" target="_blank">Datalayer Run</a></b> Jupyter kernels as a service from any Jupyter client (JupyterLab, VS Code...)
+  <b><a href="https://datalayer.run" target="_blank">Datalayer Run</a></b> aka "Jupyter kernels as a service" for any Jupyter client (JupyterLab, VS Code...)
   <br/>
-  <b><a href="https://datalayer.app" target="_blank">Datalayer App</a></b> Jupyter dashboards and courses
+  <b><a href="https://datalayer.app" target="_blank">Datalayer App</a></b> aka "GitHub for Data" is a online platform for Jupyter dashboards and courses
 </h2>
+
+<h3 align="center">
+  Open Science Platform 100% compatible with the Jupyter standards
+</h3>
 
 <h3 align="center">
   🧬 🧪 🔬 📐 🌎 🔭 📡 🛰️
