@@ -9,16 +9,15 @@
 </div>
 
 <h1 align="center">
-  Cloud native open science platform
+  Collaborative Jupyter
 </h1>
 
 <div align="center">
-  Add value to your <a href="https://jupyter.org" target="_blank">Jupyter</a> with the <a href="https://datalayer.tech" target="_blank">Datalayer Tech</a> open source components.
+  <b><a href="https://datalayer.tech" target="_blank">Datalayer Tech</a></b> Jupyter upgrade with open source components to build a custom cloud native open science platform.
   <br/>
+  <b><a href="https://datalayer.run" target="_blank">Datalayer Run</a></b> Jupyter kernels as a service from any Jupyter client (JupyterLab, VS Code...)
   <br/>
-  <a href="https://datalayer.run" target="_blank">Datalayer Run</a> - Jupyter kernels as a service
-  <br/>
-  <a href="https://datalayer.app" target="_blank">Datalayer App</a> - Jupyter dashboards and courses
+  <b><a href="https://datalayer.app" target="_blank">Datalayer App</a></b> Jupyter dashboards and courses
 </h2>
 
 <h3 align="center">
