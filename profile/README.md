@@ -21,7 +21,7 @@
 </h2>
 
 <h3 align="center">
-  Open Science Platform 100% compatible with the Jupyter standards
+  Build your Open Science Platform 100% compatible with the Jupyter standards
 </h3>
 
 <h3 align="center">
