@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">
-  A cloud native Jupyter
+  A cloud native Jupyter for faster AI delivery
 </h1>
 
 <div align="center">
