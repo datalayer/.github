@@ -21,7 +21,7 @@
 </h2>
 
 <h3 align="center">
-  Build your Open Science Platform for faster AI delivery
+  Build a custom Open Science Platform for faster AI delivery
 </h3>
 
 <h3 align="center">
