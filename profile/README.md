@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">
-  A cloud native Jupyter for faster AI delivery
+  A cloud native Jupyter
 </h1>
 
 <div align="center">
@@ -21,7 +21,7 @@
 </h2>
 
 <h3 align="center">
-  Build your Open Science Platform 100% compatible with the Jupyter standards
+  Build your Open Science Platform for faster AI delivery
 </h3>
 
 <h3 align="center">
