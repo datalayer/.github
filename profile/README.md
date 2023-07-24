@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">
-  A cloud native and react.js Jupyter
+  A Cloud-native and React.js Jupyter
 </h1>
 
 <div align="center">
