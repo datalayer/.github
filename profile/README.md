@@ -9,11 +9,11 @@
 </div>
 
 <h1 align="center">
-  A cloud native Jupyter
+  A cloud native and react.js Jupyter
 </h1>
 
 <div align="center">
-  <b><a href="https://datalayer.tech" target="_blank">Datalayer Tech</a></b> open source repositories upgrade your Jupyter to a cloud native open science platform
+  <b><a href="https://datalayer.tech" target="_blank">Datalayer Tech</a></b> open source repositories upgrade your Jupyter to a cloud native and react.js platform
   <br/>
   <b><a href="https://datalayer.run" target="_blank">Datalayer Run</a></b> aka "Jupyter kernels as a service" for any Jupyter client (JupyterLab, VS Code...)
   <br/>
