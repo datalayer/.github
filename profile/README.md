@@ -2,7 +2,7 @@
   <a href="https://datalayer.io">
     <img
       alt="Datalayer"
-      src="https://assets.datalayer.design/datalayer-25.svg"
+      src="https://assets.datalayer.tech/datalayer-25.svg"
       width="150"
     />
   </a>
