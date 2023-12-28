@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">
-  Scale Jupyter with Vendor-Lock
+  Scale Jupyter without Vendor-Lock
 </h1>
 
 <h3 align="center">
