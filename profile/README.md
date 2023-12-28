@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">
-  A Cloud-native and React.js Jupyter
+  Scale Jupyter with Vendor-Lock
 </h1>
 
 <h3 align="center">
