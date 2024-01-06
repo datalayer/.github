@@ -13,9 +13,5 @@
 </h1>
 
 <h3 align="center">
- ... for faster AI delivery
-</h3>
-
-<h3 align="center">
   🧬 🧪 🔬 📐 🌎 🔭 📡 🛰️
 </h3>
