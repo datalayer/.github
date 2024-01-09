@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">
-  Scale Jupyter without vendor-lock
+  Scale Jupyter without losing your local productivity
 </h1>
 
 <h3 align="center">
